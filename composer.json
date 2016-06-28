@@ -1,0 +1,13 @@
+{
+    "name": "jiko/ts3-rank",
+    "description": "teamspeak3 ranking system",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe Jiko",
+            "email": "me@joejiko.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
